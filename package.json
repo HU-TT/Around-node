@@ -6,7 +6,7 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "cookie-parser": "^1.4.4",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "mongoose": "^5.5.4",
     "socket.io": "^2.2.0",
     "utility": "^1.16.1"
